@@ -23,4 +23,4 @@ A simple Python script to generate and validate tokens. It creates tokens, check
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/kxeuz1337/Token
+   https://github.com/kxeuz1337/Token-Gen-.git
